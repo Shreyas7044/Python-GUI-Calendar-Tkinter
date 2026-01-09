@@ -50,9 +50,7 @@ python-gui-calendar-tkinter/
 
 ## 🔁 Reusability
 You can:
-- Modify password length logic
 - Improve GUI design
-- Integrate with login systems
 - Use in educational learning projects
 
 ---
