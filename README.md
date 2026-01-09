@@ -38,7 +38,7 @@ python-gui-calendar-tkinter/
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Python-GUI-Calendar-Tkinter/screenshot.png)
 
 ---
 
