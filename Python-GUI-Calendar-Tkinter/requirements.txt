@@ -1,0 +1,2 @@
+# No external libraries required
+# Tkinter and calendar are included with Python
